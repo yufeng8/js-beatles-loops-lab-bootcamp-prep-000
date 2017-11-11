@@ -23,7 +23,6 @@ function iLoveTheBeatles(n) {
   do {
     sum.push("I love the Beatles!");
     n++;
-    return sum;
   } while (n < 15)
-
+  return sum;
 }
